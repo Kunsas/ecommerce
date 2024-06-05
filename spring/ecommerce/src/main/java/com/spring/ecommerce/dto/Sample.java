@@ -1,5 +1,5 @@
 package com.spring.ecommerce.dto;
 
-public class User {
+public class Sample {
 
 }

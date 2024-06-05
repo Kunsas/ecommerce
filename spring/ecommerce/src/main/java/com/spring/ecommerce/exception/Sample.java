@@ -1,5 +1,5 @@
 package com.spring.ecommerce.exception;
 
-public class User {
+public class Sample {
 
 }

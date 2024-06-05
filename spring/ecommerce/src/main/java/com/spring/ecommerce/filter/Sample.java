@@ -1,5 +1,5 @@
 package com.spring.ecommerce.filter;
 
-public class User {
+public class Sample {
 
 }

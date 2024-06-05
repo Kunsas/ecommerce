@@ -1,5 +1,5 @@
 package com.spring.ecommerce.configuration;
 
-public class User {
+public class Sample {
 
 }

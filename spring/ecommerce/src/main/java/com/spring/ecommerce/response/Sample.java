@@ -1,5 +1,5 @@
 package com.spring.ecommerce.response;
 
-public class User {
+public class Sample {
 
 }
